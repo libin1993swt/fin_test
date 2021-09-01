@@ -1,1 +1,3 @@
-# fin_test
+Please take clone from branch "master"
+
+Run commmand -> "composer update"  for install package (appzcoder/crud-generator)
